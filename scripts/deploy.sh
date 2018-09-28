@@ -5,7 +5,7 @@ set -euxo pipefail
 path_script=$(readlink -f "$0")
 path_root=$(dirname $(dirname "$path_script"))
 project=jbakery
-project_type=jar
+project_type=pom
 path_release_directory=~/jbakery/$project
 path_repository=$(mktemp -d)
 repository_url=file://$path_repository

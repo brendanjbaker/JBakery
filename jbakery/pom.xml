@@ -12,7 +12,6 @@
 	<groupId>org.jbakery</groupId>
 	<artifactId>jbakery</artifactId>
 	<version>1.0.1</version>
-	<packaging>pom</packaging>
 
 	<name>jbakery</name>
 	<description>Base distribution of JBakery (metapackage).</description>
